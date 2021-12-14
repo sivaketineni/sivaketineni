@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sivaketineni
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Threat Hunting and Automation
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .. Mail me on sivasankar2194@gmail.com
 
 <!---
